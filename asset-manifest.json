@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "http//godsangin.github.io/myapp/static/css/main.1dd659bb.chunk.css",
-    "main.js": "http//godsangin.github.io/myapp/static/js/main.64195644.chunk.js",
-    "main.js.map": "http//godsangin.github.io/myapp/static/js/main.64195644.chunk.js.map",
-    "runtime~main.js": "http//godsangin.github.io/myapp/static/js/runtime~main.7f5a3718.js",
-    "runtime~main.js.map": "http//godsangin.github.io/myapp/static/js/runtime~main.7f5a3718.js.map",
-    "static/js/2.b0d4d72d.chunk.js": "http//godsangin.github.io/myapp/static/js/2.b0d4d72d.chunk.js",
-    "static/js/2.b0d4d72d.chunk.js.map": "http//godsangin.github.io/myapp/static/js/2.b0d4d72d.chunk.js.map",
-    "index.html": "http//godsangin.github.io/myapp/index.html",
-    "precache-manifest.7760ba9f81be6a6913b3d39d028cbb9e.js": "http//godsangin.github.io/myapp/precache-manifest.7760ba9f81be6a6913b3d39d028cbb9e.js",
-    "service-worker.js": "http//godsangin.github.io/myapp/service-worker.js",
-    "static/css/main.1dd659bb.chunk.css.map": "http//godsangin.github.io/myapp/static/css/main.1dd659bb.chunk.css.map",
-    "static/media/logo.svg": "http//godsangin.github.io/myapp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/myapp/static/css/main.8c5089d2.chunk.css",
+    "main.js": "/myapp/static/js/main.0fbb3a66.chunk.js",
+    "main.js.map": "/myapp/static/js/main.0fbb3a66.chunk.js.map",
+    "runtime~main.js": "/myapp/static/js/runtime~main.e4f53ea3.js",
+    "runtime~main.js.map": "/myapp/static/js/runtime~main.e4f53ea3.js.map",
+    "static/js/2.7b834e7d.chunk.js": "/myapp/static/js/2.7b834e7d.chunk.js",
+    "static/js/2.7b834e7d.chunk.js.map": "/myapp/static/js/2.7b834e7d.chunk.js.map",
+    "index.html": "/myapp/index.html",
+    "precache-manifest.b61ee9609add6ccbc71a8f9bfe7eeb3b.js": "/myapp/precache-manifest.b61ee9609add6ccbc71a8f9bfe7eeb3b.js",
+    "service-worker.js": "/myapp/service-worker.js",
+    "static/css/main.8c5089d2.chunk.css.map": "/myapp/static/css/main.8c5089d2.chunk.css.map",
+    "static/media/logo.svg": "/myapp/static/media/logo.5d5d9eef.svg"
   }
 }

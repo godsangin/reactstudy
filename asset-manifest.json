@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactstudy/static/css/main.8c5089d2.chunk.css",
-    "main.js": "/reactstudy/static/js/main.59708efc.chunk.js",
-    "main.js.map": "/reactstudy/static/js/main.59708efc.chunk.js.map",
+    "main.js": "/reactstudy/static/js/main.06fa71e4.chunk.js",
+    "main.js.map": "/reactstudy/static/js/main.06fa71e4.chunk.js.map",
     "runtime~main.js": "/reactstudy/static/js/runtime~main.b6063ace.js",
     "runtime~main.js.map": "/reactstudy/static/js/runtime~main.b6063ace.js.map",
     "static/js/2.a1b23d24.chunk.js": "/reactstudy/static/js/2.a1b23d24.chunk.js",
     "static/js/2.a1b23d24.chunk.js.map": "/reactstudy/static/js/2.a1b23d24.chunk.js.map",
     "index.html": "/reactstudy/index.html",
-    "precache-manifest.e6d77e086ebf8863904a03b3cb7a5d59.js": "/reactstudy/precache-manifest.e6d77e086ebf8863904a03b3cb7a5d59.js",
+    "precache-manifest.b1c19ca55fae1b649caa35131595b0e3.js": "/reactstudy/precache-manifest.b1c19ca55fae1b649caa35131595b0e3.js",
     "service-worker.js": "/reactstudy/service-worker.js",
     "static/css/main.8c5089d2.chunk.css.map": "/reactstudy/static/css/main.8c5089d2.chunk.css.map"
   }
